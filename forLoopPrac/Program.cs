@@ -32,6 +32,7 @@ namespace forLoopPrac
             //while loop:
 
             var j = 0;
+
             while (j <= 10)
             {
                 if (j % 2 == 0)
